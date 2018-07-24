@@ -1,0 +1,10 @@
+/build
+/out
+.gradle
+.idea/workspace.xml
+.idea/modules.xml
+*.iml
+.idea/libraries/
+.idea/gradle.xml
+.idea/vcs.xml
+.idea/misc.xml
